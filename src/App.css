@@ -1,0 +1,19 @@
+.navbar-brand {
+   text-align: left;
+   color:aqua;
+}
+.nav-link{
+  color:black;
+}
+body{
+  background-color:azure;
+}
+.h1 {
+  font-size:medium;
+}
+.profile-right{
+    width:250px;
+    height:250px
+    border-radius=50%;
+    object-fit:cover;
+}
