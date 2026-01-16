@@ -1,16 +1,47 @@
-# React + Vite
+Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built using React JS and CSS to showcase my profile, skills, projects, and contact details.
 
-Currently, two official plugins are available:
+About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hi, I’m Anjana Hari, a BTech Computer Science student at RIT Kottayam.
+I am passionate about web development, problem solving, and currently learning full stack development.
 
-## React Compiler
+Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+⦁	React JS
+⦁	HTML
+⦁	CSS
+⦁	Bootstrap
 
-## Expanding the ESLint configuration
+Skills
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⦁	Programming Languages: C, Java
+⦁	Frontend: HTML, CSS, Bootstrap
+⦁	JavaScript Library: React JS
+⦁	Database: MySQL
+
+Projects
+⦁	Ticket Booking Website
+⦁	DBMS project based on a Railway Management System.
+⦁	Event Registration Website:
+       A college event registration page built using HTML and CSS.
+
+Features
+
+⦁	Responsive portfolio design
+⦁	Clean and simple UI
+⦁	Sections: About, Skills, Projects, Contact
+⦁	Component-based React structure
+
+Contact
+
+⦁	Phone: 7902659660
+⦁	Email: anjanahari256@gmail.com
+⦁	LinkedIn: https://linkedin.com/in/anjana-hari-b582002b4
+⦁	GitHub: https://github.com/ANJANA-HARI-256
+
+
+⦁	Email: anjanahari256@gmail.com
+⦁	LinkedIn: https://linkedin.com/in/anjana-hari-b582002b4
+⦁	GitHub: https://github.com/ANJANA-HARI-256
