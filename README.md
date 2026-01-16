@@ -42,5 +42,6 @@ Contact
 ⦁	GitHub: https://github.com/ANJANA-HARI-256
 
 Live URL
-personal-portfolio-blush-gamma.vercel.app
+
+ personal-portfolio-blush-gamma.vercel.app
 
