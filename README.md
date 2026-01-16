@@ -42,6 +42,3 @@ Contact
 ⦁	GitHub: https://github.com/ANJANA-HARI-256
 
 
-⦁	Email: anjanahari256@gmail.com
-⦁	LinkedIn: https://linkedin.com/in/anjana-hari-b582002b4
-⦁	GitHub: https://github.com/ANJANA-HARI-256
